@@ -38,12 +38,10 @@ And it's fucking perfect.
 
 You probably design forms and think your shit is special. You think that your custom select box is going to get you some fucking design award that you can glue to the top corner of your site. You think that removing labels saves precious fucking space. Wrong, motherfucker. Let me describe your perfect-ass web form:
 
-* Your shitty form has a submit button
-* Each of your shitty fields have a label
-* Works as expected in all your shitty browsers
-* Your shitty checkbox group (or radio group) has a fieldset (and legend bitch)
-* Your shitty fields use placeholders as a bonus, dumbass.
-* Your shitty form uses the right control for the job.
+* It's got a submit button
+* Each control has a label
+* It embraces the native browser behaviour
+* It uses a fieldset and legend for grouping controls.
 
 ### Well guess what, motherfucker:
 
@@ -67,27 +65,15 @@ You think you're a designer? Then fucking learn how the web actually works. You 
 
 Oh, gee, you don't know what a fieldset is? You think your a professional designer? Well, guess what motherfucker, you're obviously seriously lacking. Go and work in McDonalds.
 
-## It's fucking lightweight
+## It uses placeholders, where possible
 
-This form weighs in at a matter of bytes, you dumb fuck. You didn't need some special library or framework to make the controls look exactly the same on different devices you ignorant fuck.
-
-Your users don't give a fucking shit.
-
-This entire page weighs less than the gradient-meshed facebook logo on your fucking Wordpress site. Did you seriously load 100kb of jQuery UI just so you could animate the fucking background color of a div? You loaded all 7 fontfaces of a shitty webfont just so you could say "Hi." at 100px height at the beginning of your site? You piece of shit.
-
-## It's responsive/cross-browser
-
-This form, with nothing but HTML, works fucking every where you dumbass. You thought you needed some library wizard shit. No.
-
-You dumbass. You thought you needed media queries to be responsive, but no. Responsive means that it responds to whatever motherfucking screensize it's viewed on. This site doesn't care if you're on an iMac or a motherfucking Tamagotchi.
+Just because you got a boner, when the placeholder came out, doesn't mean you can stop using labels. This form uses them as additional bonus prompts, and it works perfectly in newer browsers and degrades perfectly in shitter browsers. You know, that's what the web is, dumbass.
 
 ## It fucking works
 
 Look at this shit. You can enter information and submit the fucker, that is if you're able to type, motherfucker.
 
-It makes sense, you can understand what you need to type.
-
-It's using HTML5 inputs and placeholders as a bonus, so if you do actually use a modern browser it works a bit better, without destroying the experience for older browsers, you ignorant fuck.
+It's using HTML5 inputs and placeholders as a bonus, so if you do actually use a modern browser it works a bit better, without destroying the experience for older browsers, dumbass.
 
 You didn't need to fix anything, it wasn't broken to start with.
 
@@ -95,12 +81,11 @@ Cross-browser compatibility? Load this motherfucker in IE6 or IE4. I fucking dar
 
 ## This is a form. Look at it. You've never seen one before.
 
-Like the man who's never grown out his beard has no idea what his true natural state is, you have no fucking idea what a form is. All you have ever seen are shitty forms built by idiot developers hamstrung by their fellow team mate web designers, all pretending to be professionals.
+All you have ever seen are shitty forms built by greenhorn developers, hamstrung by designers, masquerading as professionals.
 
 ### Yes, this uses default styles, you fuck
 
-I'm not actually saying your shitty form should look exactly like this. What I'm saying is that all the problems we have with forms are ones we create ourselves. Web forms aren't broken by default, they are functional, high-performing, and accessible. You break them. You son-of-a-bitch.
+I'm not actually saying your shitty form should look exactly like this. You could put a little bit of effort in, and make them much better. What I'm saying is that all the problems we have with forms are ones we create ourselves. Web forms aren't broken by default, they are functional, usable and accessible. You break them. You son-of-a-bitch.
 
 "Good design is as little design as possible."
 - some German motherfucker
-
