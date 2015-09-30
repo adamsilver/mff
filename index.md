@@ -36,35 +36,36 @@ And it's fucking perfect.
 
 ## Seriously, what the fuck else do you want?
 
-You probably design forms and think your shit is special. You think the fact that your custom select box is going to get you some fucking Awwwwward banner you can glue to the top corner of your site. You think that removing labels saves precious fucking space. Wrong, motherfucker. Let me describe your perfect-ass web form:
+You probably design forms and think your shit is special. You think that your custom select box is going to get you some fucking design award that you can glue to the top corner of your site. You think that removing labels saves precious fucking space. Wrong, motherfucker. Let me describe your perfect-ass web form:
 
-* Every form has a fucking submit button
-* Every field has a fucking label
-* Every group of checkboxes or radios has a fucking fieldset (and legend bitch)
-* Every control gets the intended browser/device specific behaviour
-* Placeholders are added as a bonus, dumbass.
+* Your shitty form has a submit button
+* Each of your shitty fields have a label
+* Works as expected in all your shitty browsers
+* Your shitty checkbox group (or radio group) has a fieldset (and legend bitch)
+* Your shitty fields use placeholders as a bonus, dumbass.
+* Your shitty form uses the right control for the job.
 
 ### Well guess what, motherfucker:
 
 You. Are. Over-designing. Look at this shit. It's a motherfucking form. Why the fuck did you spend so much time removing labels and relying on placeholders just because you don't give a shit about anyone but yourself.
 
-## Every form has a submit button
+You never knew it, but this is your perfect form. Here's why.
 
-You dumbass. You thought that removing a submit button would clean up the UI or some shit like that. You thought everyone has fucking Javascript, and that using it somehow makes you cool.
+## It's got a submit button
 
-I guess you also thought it was a good idea to do shit as the user is typing. Wrong. Get off the users back, and show some fucking respect.
+You thought that removing a submit button would clean up the UI or some shit like that. You thought everyone has fucking Javascript, and that using it somehow makes you cool.
 
-This form has a submit button, and guess what? It's fucking clear what this form does and how to submit it, in every fucking browser known to man.
+I guess you also thought it was a good idea to do some cool shit, as the user is typing. Wrong, motherfucker. Get off the users back, and show some fucking respect.
+
+This form has a submit button, and guess what? It's clear what this form does and how to submit it, in every fucking browser known to man, with a keyboard, mouse, finger, thumb or screen reader, you dumbass.
 
 ## Every field has a fucking label
 
-You think you're a designer? Then fucking learn how the web actually works. You think omitting labels, even if it's just once, is acceptable. No.
+You think you're a designer? Then fucking learn how the web actually works. You think omitting labels, even if it's just once, is acceptable. No. It's never acceptable. Get your head out of your own ass, and serve the user. You do remember what a user is don't you?
 
-See this form, it has a label for every field. And guess what, it helped your users, remember those fuckers?
+## It uses fieldsets and legends where necessary
 
-## Every group of checkboxes or radios has a fieldset and legend
-
-Oh you haven't heard of a fieldset or legend? Are you designing websites? Well, you need to stop calling yourself a professional. You're not.
+Oh, gee, you don't know what a fieldset is? You think your a professional designer? Well, guess what motherfucker, you're obviously seriously lacking. Go and work in McDonalds.
 
 ## It's fucking lightweight
 
