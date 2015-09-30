@@ -85,19 +85,23 @@ You dumbass. You thought you needed media queries to be responsive, but no. Resp
 
 ## It fucking works
 
-Look at this shit. You can read it ... that is, if you can read, motherfucker. It makes sense. It has motherfucking hierarchy. It's using HTML5 tags so you and your bitch-ass browser know what the fuck's in this fucking site. That's semantics, motherfucker.
+Look at this shit. You can enter information and submit the fucker, that is if you're able to type, motherfucker.
 
-It has content on the fucking screen. Your site has three bylines and link to your dribbble account, but you spread it over 7 full screens and make me click some bobbing button to show me how cool the jQuery ScrollTo plugin is.
+It makes sense, you can understand what you need to type.
 
-Cross-browser compatibility? Load this motherfucker in IE6. I fucking dare you.
+It's using HTML5 inputs and placeholders as a bonus, so if you do actually use a modern browser it works a bit better, without destroying the experience for older browsers, you ignorant fuck.
 
-## This is a website. Look at it. You've never seen one before.
+You didn't need to fix anything, it wasn't broken to start with.
 
-Like the man who's never grown out his beard has no idea what his true natural state is, you have no fucking idea what a website is. All you have ever seen are shitty skeuomorphic bastardizations of what should be text communicating a fucking message. This is a real, naked website. Look at it. It's fucking beautiful.
+Cross-browser compatibility? Load this motherfucker in IE6 or IE4. I fucking dare you.
 
-### Yes, this is fucking satire, you fuck
+## This is a form. Look at it. You've never seen one before.
 
-I'm not actually saying your shitty site should look like this. What I'm saying is that all the problems we have with websites are ones we create ourselves. Websites aren't broken by default, they are functional, high-performing, and accessible. You break them. You son-of-a-bitch.
+Like the man who's never grown out his beard has no idea what his true natural state is, you have no fucking idea what a form is. All you have ever seen are shitty forms built by idiot developers hamstrung by their fellow team mate web designers, all pretending to be professionals.
+
+### Yes, this uses default styles, you fuck
+
+I'm not actually saying your shitty form should look exactly like this. What I'm saying is that all the problems we have with forms are ones we create ourselves. Web forms aren't broken by default, they are functional, high-performing, and accessible. You break them. You son-of-a-bitch.
 
 "Good design is as little design as possible."
 - some German motherfucker
