@@ -8,27 +8,50 @@ id: home
 And it's fucking perfect.
 
 <form action="http://google.co.uk">
-	<label for="firstName">First name</label>
+	<label for="short">Short text field</label>
 	<div>
-		<input id="firstName" type="text" placeholder="Type your first name here bitch!">
+		<input id="short" type="text" placeholder="Placeholder prompt">
 	</div>
-	<label for="tel">Phone number</label>
+	<label for="description">Long text field</label>
 	<div>
-		<input id="tel" type="number" placeholder="Type your phone number duh">
+		<textarea id="description" name="description"></textarea>
+	</div>
+	<label for="tel">Number field</label>
+	<div>
+		<input id="tel" type="number" placeholder="A number goes here, dumbass">
+	</div>
+	<label for="email">Email field</label>
+	<div>
+		<input id="email" type="email" placeholder="An email goes here, duh!">
 	</div>
 	<fieldset>
-        <legend>Favourite colour</legend>
+        <legend>Most common form problems</legend>
         <div class="choice">
-            <input type="radio" name="colour" id="colour">
-            <label for="colour">Red</label>
+            <input type="radio" name="issue" id="issue">
+            <label for="issue">Missing labels</label>
         </div>
         <div class="choice">
-            <input type="radio" name="colour" id="colour2">
-            <label for="colour2">Blue</label>
+            <input type="radio" name="issue" id="issue2">
+            <label for="issue2">Missing fieldsets/legend</label>
         </div>
         <div class="choice">
-            <input type="radio" name="colour" id="colour3">
-            <label for="colour3">Yellow</label>
+            <input type="radio" name="issue" id="issue3">
+            <label for="issue3">Missing submit button</label>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Why you're fucking forms up</legend>
+        <div class="choice">
+            <input type="checkbox" name="why" id="why">
+            <label for="why">You're a dumbas</label>
+        </div>
+        <div class="choice">
+            <input type="checkbox" name="why" id="why2">
+            <label for="why2">You're ignorant</label>
+        </div>
+        <div class="choice">
+            <input type="checkbox" name="why" id="why3">
+            <label for="why3">You're trying to be aesthtically pleasing</label>
         </div>
     </fieldset>
 	<input type="submit" value="Submit the form">
@@ -41,7 +64,7 @@ You probably design forms and think your shit is special. You think that your cu
 * It's got a submit button
 * Each control has a label
 * It embraces the native browser behaviour
-* It uses a fieldset and legend for grouping controls.
+* It uses a fieldset and legend for grouping
 
 ### Well guess what, motherfucker:
 
@@ -69,6 +92,10 @@ Oh, gee, you don't know what a fieldset is? You think your a professional design
 
 Just because you got a boner, when the placeholder came out, doesn't mean you can stop using labels. This form uses them as additional bonus prompts, and it works perfectly in newer browsers and degrades perfectly in shitter browsers. You know, that's what the web is, dumbass.
 
+## It uses the right control for the job
+
+Coming soon.
+
 ## It fucking works
 
 Look at this shit. You can enter information and submit the fucker, that is if you're able to type, motherfucker.
@@ -87,5 +114,5 @@ All you have ever seen are shitty forms built by greenhorn developers, hamstrung
 
 I'm not actually saying your shitty form should look exactly like this. You could put a little bit of effort in, and make them much better. What I'm saying is that all the problems we have with forms are ones we create ourselves. Web forms aren't broken by default, they are functional, usable and accessible. You break them. You son-of-a-bitch.
 
-"Good design is as little design as possible."
-- some German motherfucker
+"Embrace the web"
+- some guy from Brighton, England.
