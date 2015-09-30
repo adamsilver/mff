@@ -66,9 +66,6 @@ See this form, it has a label for every field. And guess what, it helped your us
 
 Oh you haven't heard of a fieldset or legend? Are you designing websites? Well, you need to stop calling yourself a professional. You're not.
 
-## It fucking works
-
-
 ## It's fucking lightweight
 
 This form weighs in at a matter of bytes, you dumb fuck. You didn't need some special library or framework to make the controls look exactly the same on different devices you ignorant fuck.
