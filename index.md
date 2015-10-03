@@ -24,40 +24,48 @@ And it's fucking perfect.
 	<div>
 		<input id="email" type="email" placeholder="An email goes here, duh!">
 	</div>
+	<label for="options">Select an option</label>
+	<div>
+		<select id="options" name="options">
+			<option value="">Select a value</option>
+			<option value="1">Option 1</option>
+			<option value="2">Option 2</option>
+		</select>
+	</div>
 	<fieldset>
         <legend>What are the most common problems face with forms</legend>
-        <div class="choice">
+        <div>
             <input type="radio" name="issue" id="issue">
             <label for="issue">Missing labels</label>
         </div>
-        <div class="choice">
+        <div>
             <input type="radio" name="issue" id="issue2">
             <label for="issue2">Missing fieldsets/legend</label>
         </div>
-        <div class="choice">
+        <div>
             <input type="radio" name="issue" id="issue3">
             <label for="issue3">Missing submit button</label>
         </div>
-        <div class="choice">
+        <div>
             <input type="radio" name="issue" id="issue4">
             <label for="issue4">Badly named labels/legends/buttons</label>
         </div>
-        <div class="choice">
+        <div>
             <input type="radio" name="issue" id="issue5">
             <label for="issue5">Over customisation</label>
         </div>
     </fieldset>
     <fieldset>
         <legend>Why you're fucking forms up</legend>
-        <div class="choice">
+        <div>
             <input type="checkbox" name="why" id="why">
             <label for="why">You're a dumbass</label>
         </div>
-        <div class="choice">
+        <div>
             <input type="checkbox" name="why" id="why2">
             <label for="why2">You're ignorant</label>
         </div>
-        <div class="choice">
+        <div>
             <input type="checkbox" name="why" id="why3">
             <label for="why3">You place <em>visual</em> design above everything</label>
         </div>
