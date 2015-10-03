@@ -62,7 +62,7 @@ And it's fucking perfect.
             <label for="why3">You place <em>visual</em> design above everything</label>
         </div>
     </fieldset>
-	<input type="submit" value="Submit the form">
+	<input type="submit" value="Submit">
 </form>
 
 ## Seriously, what the fuck else do you want?
