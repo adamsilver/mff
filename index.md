@@ -10,7 +10,7 @@ And it's fucking perfect.
 <form action="http://google.co.uk">
 	<label for="short">Type a little bit of text</label>
 	<div>
-		<input id="short" type="text" placeholder="Placeholder prompt">
+		<input id="short" type="text" placeholder="Text goes here, fucker">
 	</div>
 	<label for="description">Type a lot of text</label>
 	<div>
@@ -33,7 +33,7 @@ And it's fucking perfect.
 		</select>
 	</div>
 	<fieldset>
-        <legend>What are the most common problems face with forms</legend>
+        <legend>What are the most common problems?</legend>
         <div>
             <input type="radio" name="issue" id="issue">
             <label for="issue">Missing labels</label>
@@ -52,7 +52,11 @@ And it's fucking perfect.
         </div>
         <div>
             <input type="radio" name="issue" id="issue5">
-            <label for="issue5">Over customisation</label>
+            <label for="issue5">Using placeholders as replacements for labels</label>
+        </div>
+        <div>
+            <input type="radio" name="issue" id="issue6">
+            <label for="issue6">Over customisation</label>
         </div>
     </fieldset>
     <fieldset>
@@ -77,10 +81,11 @@ And it's fucking perfect.
 
 You probably design forms and think your shit is special. You think that your custom select box is going to get you some fucking design award that you can glue to the top corner of your site. You think that removing labels saves precious fucking space. Wrong, motherfucker. Let me describe your perfect-ass web form:
 
-* It's got a submit button
-* Each control has a label
 * It embraces the native browser behaviour
+* It's got a submit button
+* Each field has a label
 * It uses a fieldset and legend for grouping
+* It uses placeholders in addition to labels
 
 ### Well guess what, motherfucker:
 
@@ -92,19 +97,19 @@ You never knew it, but this is your perfect form. Here's why.
 
 You thought that removing the submit button would clean up the UI or some shit like that. You thought Javascript is ubiquitous and that using it somehow makes you cool.
 
-I guess you also thought it was a good idea to do some awesome shit, as the user is typing. Wrong, motherfucker. Get off the users back, and show some fucking respect.
+I guess you also thought it was a good idea to do some awesome shit, as the user is typing. Wrong, motherfucker. Stop distracting the user and show some fucking respect.
 
 This form has a submit button, and guess what? It's clear what this form does and how to submit it, in every fucking browser known to man, with a keyboard, mouse, finger, thumb or screen reader, you dumbass.
 
-## Every field has a fucking label
+## Each field has a fucking label
 
-You think you're a designer? Then fucking learn how the web actually works. You think omitting labels is acceptable. No. It's never acceptable. Get your head out of your own ass, and serve the user. You do remember what a user is don't you?
+You think you're a designer? Then fucking learn how the web *actually* works. You think omitting labels is acceptable. No. It's never acceptable. Get your head out of your own ass, and serve the user. You do remember what a user is don't you?
 
-## It uses fieldsets and legends where necessary
+## It uses a fieldset and legend for grouping
 
-Oh, gee, you don't know what a fieldset is? You think your a professional designer? Well, guess what motherfucker, you're obviously not. Go and work in McDonalds, or draw a picture.
+Oh, gee, you don't know what a fieldset is? You think your a professional designer? Well, guess what motherfucker, you're obviously not. Go and paint or something.
 
-## It uses placeholders, where possible
+## It uses placeholders in addition to labels
 
 Just because you got a boner when the placeholder was released, doesn't mean you can stop using labels. This form uses them as additional bonus prompts and it works in newer browsers and degrades in shitty browsers. Remember, that's how the web works, that's why you're meant to be designing *for* the web, that's why your job title is "web designer", you dumbass. Unless you just changed your title to "UX designer" to sound cool, idiot.
 
@@ -118,7 +123,7 @@ Cross-browser compatibility? Load this motherfucker in IE-fucking-4. I fucking d
 
 ## This is a form. Look at it. You've never seen one before.
 
-All you have ever seen are shitty forms built by greenhorn developers, hamstrung by designers, masquerading as professionals.
+All you have ever seen are shitty forms built by greenhorn developers, hamstrung by so-called designers, masquerading as professionals.
 
 ### Yes, this uses default styles, you fuck
 
