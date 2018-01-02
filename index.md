@@ -103,11 +103,11 @@ This form has a submit button, and guess what? It's clear what this form does an
 
 ## Each field has a fucking label
 
-You think you're a designer? Then fucking learn how the web *actually* works. You think omitting labels is acceptable. No. It's never acceptable. Get your head out of your own ass, and serve the user. You do remember what a user is don't you?
+You think you're a designer? Then fucking learn how the web *actually* works. You think omitting labels is acceptable. No. Get your head out of your own ass, and serve the user. You do remember what a user is don't you?
 
 ## It uses a fieldset and legend for grouping
 
-Oh, gee, you don't know what a fieldset is? You think your a professional designer? Well, guess what motherfucker, you're obviously not. Go and paint or something.
+Oh, gee, you don't know what a fieldset is? You think your a professional designer? Well, guess what motherfucker, you're obviously not. Go and paint your house in pretty colours.
 
 ## It uses placeholders in addition to labels
 
